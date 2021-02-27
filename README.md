@@ -10,4 +10,4 @@ References: Corey Mccrea helped me with understanding the project
 + Lecture Videos
 
 Bugs:
-+Slight print issues on output
+-Slight print issues on output
